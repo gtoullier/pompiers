@@ -1,4 +1,5 @@
 streamlit
 streamlit-aggrid
 seaborn
+scikit-learn
 xgboost
